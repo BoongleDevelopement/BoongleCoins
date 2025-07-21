@@ -14,3 +14,6 @@ A FREE and fully lightweight Coin System for your Server. (PlaceholderAPI Suppor
 
 # If you are serious about commands, placeholders, more features, checkout our Documentation!
 Link: **SOON**
+
+<img width="981" height="354" alt="image" src="https://github.com/user-attachments/assets/40d13557-b501-4499-818e-ae242d198c6e" />
+
